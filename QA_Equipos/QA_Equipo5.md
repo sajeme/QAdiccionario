@@ -1,7 +1,7 @@
 # QA Equipo 5
 ## Observaciones
 #### Palabras en español
-1. [[Borrar los corchetes y poner sus observaciones]]
+1. La definición propuesta por el equipo es simple y fácil de comprender, cumpliendo con su objetivo.
 2. [[Borrar los corchetes y poner sus observaciones]]
 3. Sugiero revisar la redaccion pues parece que esta diciendo el "que hace" en vez de "que es".
 4. Mismo problema de redaccion al leerla parece que explica "como se hace" en vez de "que es".
