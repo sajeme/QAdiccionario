@@ -1,4 +1,5 @@
-# QA Equipo 1
+QA Equipo 1
+------------
 ## Observaciones
 #### Palabras en español
 1. [[Borrar los corchetes y poner sus observaciones]]
