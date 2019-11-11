@@ -14,8 +14,8 @@
 #### Palabras en Inglés
 1. Increment: Concepto copiado y pegado de su parte en español. Referencia confiable.
 2. System integration: Parece más un copy and paste del concepto que una paráfrasis. Referencia cuestionable.
-3. Patch: 
-4. Core: 
+3. Patch: Definición entendible y correcta, aunque creo que se puede buscar una mejor referencia.
+4. Core: La definición parafraseada da más contexto y entendimiento a la definición textual, pero carece de una fuente confiable
 5. [[Borrar los corchetes y poner sus observaciones]]
 6. [[Borrar los corchetes y poner sus observaciones]]
 7. [[Borrar los corchetes y poner sus observaciones]]
