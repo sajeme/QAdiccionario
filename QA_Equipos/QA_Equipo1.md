@@ -5,8 +5,8 @@
 2. Ingeniería de Integración: Concepto correcto, explica qué es. Referencia adecuada.
 3. Parche: Concepto correcto y explicación completa y clara. La referencia no es tan fiable.
 4. Núcleo: Definición inconcreta. Referencia poco fiable.
-5. [[Borrar los corchetes y poner sus observaciones]]
-6. [[Borrar los corchetes y poner sus observaciones]]
+5. Pipeline: Explicación algo confusa.
+6. Intérprete de comandos: Muy buena explicación y definición. Buena referencia.
 7. [[Borrar los corchetes y poner sus observaciones]]
 8. [[Borrar los corchetes y poner sus observaciones]]
 9. [[Borrar los corchetes y poner sus observaciones]]
