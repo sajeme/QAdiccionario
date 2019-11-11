@@ -3,7 +3,7 @@
 #### Palabras en español
 1. Incremento: Concepto textual poco preciso y no claro. Referencia confiable.
 2. Ingeniería de Integración: Concepto correcto, explica qué es. Referencia adecuada.
-3. [[Borrar los corchetes y poner sus observaciones]]
+3. Parche: Concepto correcto y explicación completa y clara. La referencia no es tan fiable.
 4. [[Borrar los corchetes y poner sus observaciones]]
 5. [[Borrar los corchetes y poner sus observaciones]]
 6. [[Borrar los corchetes y poner sus observaciones]]
