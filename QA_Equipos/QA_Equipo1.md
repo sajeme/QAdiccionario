@@ -6,7 +6,7 @@
 3. Parche: Concepto correcto y explicación completa y clara. La referencia no es tan fiable.
 4. Núcleo: Definición inconcreta. Referencia poco fiable.
 5. Pipeline: Explicación algo confusa.
-6. Intérprete de comandos: Laexplicación y definición son muy claras. Buena referencia. 
+6. Intérprete de comandos: La explicación y definición son muy claras. Buena referencia. 
 7. Refinamientos sucesivos: Buena paráfrasis. Referencia poco confiable.
 8. Programación extrema: La definición propuesta no es muy específica de la metodologia. Buena fuente bibliográfica.
 9. [[Borrar los corchetes y poner sus observaciones]]
