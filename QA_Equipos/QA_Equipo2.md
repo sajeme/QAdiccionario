@@ -13,10 +13,10 @@
 4. [[Borrar los corchetes y poner sus observaciones]]
 5. [[Borrar los corchetes y poner sus observaciones]]
 6. [[Borrar los corchetes y poner sus observaciones]]
-7. [[Borrar los corchetes y poner sus observaciones]]
+7. **Documento de visión:** El enlace es correcto, tiene información verídica contrastando con otras fuentes de información. Es parafrasear la definición, no copiar y pegar.
 8. [[Borrar los corchetes y poner sus observaciones]]
 9. [[Borrar los corchetes y poner sus observaciones]]
-10. [[Borrar los corchetes y poner sus observaciones]]
+10. **Fase de transición:** El enlace es correcto, podrían proporcionar más información del enlace para verificar si la información es verídica, Es parafrasear la definición, no copiar y pegar. Podrían obtener información del primer enlace que utilizaron para definir RUP para extender más.
 
 #### Palabras en ingles
 1.  **RUP:** Correcto, otra fuente para "tomar en cuenta" es la siguiente:        https://pdfs.semanticscholar.org/8047/e42fec9752dc65f35ea1f66401f7ba8c25b9.pdf
@@ -26,7 +26,7 @@
 4. [[Borrar los corchetes y poner sus observaciones]]
 5. [[Borrar los corchetes y poner sus observaciones]]
 6. [[Borrar los corchetes y poner sus observaciones]]
-7. [[Borrar los corchetes y poner sus observaciones]]
+7. **Vision document:** El enlace es correcto, tiene información verídica contrastando con otras fuentes de información. Es parafrasear la definición, no copiar y pegar.
 8. [[Borrar los corchetes y poner sus observaciones]]
 9. [[Borrar los corchetes y poner sus observaciones]]
-10. [[Borrar los corchetes y poner sus observaciones]]
+10. **Transition phase:** El enlace es correcto, tiene información verídica y claro del concepto contrastando con distintas fuentes de información. Es parafrasear la definición, no copiar y pegar.
