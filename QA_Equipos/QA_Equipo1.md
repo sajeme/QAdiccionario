@@ -14,8 +14,8 @@
 #### Palabras en Inglés
 1. Increment: Concepto copiado y pegado de su parte en español. Referencia confiable.
 2. System integration: Parece más un copy and paste del concteepto que una paráfrasis. Referencia cuestionable.
-3. [[Borrar los corchetes y poner sus observaciones]]
-4. [[Borrar los corchetes y poner sus observaciones]]
+3. Patch: Buena explicación, es entendible y la fuente si es confiable.
+4. Core: La definición parafraseada da más contexto y entendimiento a la definición textual, pero carece de una fuente confiable
 5. Deployment Pipeline: Definición completa. En la referencia explican bien cuál es el concepto pero no se sabe si proviene de una fuente confiable.
 6. Command interpreter: Concepto definido de forma clara. Parafraseado correcto. La fuente no se sabe si es confiable 
 7. Stepwise refinement: El concepto definido en ingles no coicide con el propuesto en español. Buena fuente.
