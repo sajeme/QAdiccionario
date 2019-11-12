@@ -13,11 +13,11 @@
 10. [[Borrar los corchetes y poner sus observaciones]]
 #### Palabras en Inglés
 1. Increment: Concepto copiado y pegado de su parte en español. Referencia confiable.
-2. System integration: Parece más un copy and paste del concepto que una paráfrasis. Referencia cuestionable.
+2. System integration: Parece más un copy and paste del concteepto que una paráfrasis. Referencia cuestionable.
 3. [[Borrar los corchetes y poner sus observaciones]]
 4. [[Borrar los corchetes y poner sus observaciones]]
-5. [[Borrar los corchetes y poner sus observaciones]]
-6. [[Borrar los corchetes y poner sus observaciones]]
+5. Deployment Pipeline: Definición completa. En la referencia explican bien cuál es el concepto pero no se sabe si proviene de una fuente confiable.
+6. Command interpreter:
 7. Stepwise refinement: El concepto definido en ingles no coicide con el propuesto en español. Buena fuente.
 8. Extreme programming: Paráfrasis muy similar a la definición textual. Referencia adecuada. 
 9. [[Borrar los corchetes y poner sus observaciones]]
