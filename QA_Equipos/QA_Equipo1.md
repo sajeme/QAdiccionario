@@ -17,7 +17,7 @@
 3. [[Borrar los corchetes y poner sus observaciones]]
 4. [[Borrar los corchetes y poner sus observaciones]]
 5. Deployment Pipeline: Definición completa. En la referencia explican bien cuál es el concepto pero no se sabe si proviene de una fuente confiable.
-6. Command interpreter:
+6. Command interpreter: Concepto definido de forma clara. Parafraseado correcto. La fuente no se sabe si es confiable 
 7. Stepwise refinement: El concepto definido en ingles no coicide con el propuesto en español. Buena fuente.
 8. Extreme programming: Paráfrasis muy similar a la definición textual. Referencia adecuada. 
 9. [[Borrar los corchetes y poner sus observaciones]]
