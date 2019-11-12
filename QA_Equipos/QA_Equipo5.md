@@ -12,12 +12,12 @@
 9. [[Borrar los corchetes y poner sus observaciones]]
 10. [[Borrar los corchetes y poner sus observaciones]]
 #### Palabras en ingles
-1. [[Borrar los corchetes y poner sus observaciones]]
-2. [[Borrar los corchetes y poner sus observaciones]]
+1. Cumple con el objetivo de definir en palabras sencillas el concepto, aparte de relacionarlo con la definición anteriormente mencionada.
+2. Al igual que su contraparte en español, con la diferencia que aquí cambiaron unas cuantas palabras, siendo diferente a parafrasear; adicionalmente, en el link que anexaron no viene el texto citado tal cual.
 3. No se esta escribiendo una definicion, se esta ecribiendo el "para que es" no el "que es", sugiero revisar eso.
 4. Revisar redaccion, describen como es el proceso no que es el proceso.
 5. La definicion es correcta, solo la fuente no esta enfocada en el "modelo v".
-6. [[Borrar los corchetes y poner sus observaciones]]
+6. Dejando de lado la falta de anexar la fuente de información, el texto parafraseado no dice explícicamente de qué trata, sino una visión demasiado general, además de que en el mismo texto citado dan a entender que únicamente no se trata de hablar con el cliente acerca de los requerimientos del proyecto, faltó especificar más acerca de ésto con información más detallada.
 7. Se entiende la informacion solo falta mencionar segun su referencia que no se verifica el producto final sino todos los que estan en proceso
 8. Se entiende y comprende el tema
 9. [[Borrar los corchetes y poner sus observaciones]]
