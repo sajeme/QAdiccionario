@@ -9,8 +9,8 @@
 6. Intérprete de comandos: La explicación y definición son muy claras. Buena referencia. 
 7. Refinamientos sucesivos: Buena paráfrasis. Referencia poco confiable.
 8. Programación extrema: La definición propuesta no es muy específica de la metodologia. Buena fuente bibliográfica.
-9. [[Borrar los corchetes y poner sus observaciones]]
-10. [[Borrar los corchetes y poner sus observaciones]]
+9. Proceso paralelo: Copy-paste de la fuente original. Referencia confiable
+10. proceso lineal: Copy-paste de la fuente original. Referencia poco confiable
 #### Palabras en Inglés
 1. Increment: Concepto copiado y pegado de su parte en español. Referencia confiable.
 2. System integration: Parece más un copy and paste del concteepto que una paráfrasis. Referencia cuestionable.
@@ -20,5 +20,5 @@
 6. Command interpreter: Concepto definido de forma clara. Parafraseado correcto. La fuente no se sabe si es confiable 
 7. Stepwise refinement: El concepto definido en ingles no coicide con el propuesto en español. Buena fuente.
 8. Extreme programming: Paráfrasis muy similar a la definición textual. Referencia adecuada. 
-9. [[Borrar los corchetes y poner sus observaciones]]
-10. [[Borrar los corchetes y poner sus observaciones]]
+9. Parallel process: Copy-paste de la fuente original. Fuente confiable
+10. Lineal process: Buena parafrasis y buena referencia-
